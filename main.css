@@ -160,7 +160,7 @@ h4 {
 }
 
 .mainContent_img img {
-    max-height: 16.5em;    
+    max-height: 12.5em;    
 }
 
 
@@ -186,7 +186,7 @@ h4 {
     background-color: #25303e;
     color: #83969f;
     text-align: center;
-    padding: 2em;
+    padding: .8em;
 }
 
 .footer_a {
